@@ -1,0 +1,32 @@
+<!DOCTYPE>
+
+<html>
+
+<head>
+	<title>SmarTip | A simple jQuery Plugin</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<div class="box" data-tip="My custom tooltip"></div>
+
+
+<!-- Include jQuery via CDN -->
+<script
+  src="http://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+  crossorigin="anonymous"></script>
+
+ <!-- include SmartTip.js -->
+<script
+  src="dist/smartip.min.js"></script>
+
+<script>
+$(function() {
+  /* Available xDirection: Left and Right. Default: Right
+     yDirection: Top and Bottom. Default: Bottom
+     Position (x,y values): Default 10, 10  */
+  $('.box').smartip(15, 15, "right", "top");
+});
+</script>
+
+</html>

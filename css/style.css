@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-weight: 400;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: #fff;
+  background-image: url("http://i64.tinypic.com/24ovh2c.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  border-radius: 5px;
+  margin: 30px auto;
+  border: 1px dashed blueviolet;
+}
+
+p.smartip {
+  position: absolute;
+  z-index: 2;
+  padding: 10px 12px;
+  font-size: 12px;
+  color: #414042;
+  background: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
