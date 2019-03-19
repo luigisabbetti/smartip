@@ -19,10 +19,10 @@ Now you can call plugin, for example at ready function
 
 You can also call SmartTip and pass it different parameters.
 
-Available options: 
-xDirection: Left and Right. Default: Right
-yDirection: Top and Bottom. Default: Bottom
-Position (x,y values): Default 10, 10 
+Available options: <br />
+xDirection: Left and Right. Default: Right <br />
+yDirection: Top and Bottom. Default: Bottom <br />
+Position (x,y values): Default 10, 10 <br />
 
 Example:
 
