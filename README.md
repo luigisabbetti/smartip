@@ -9,7 +9,7 @@ Don't worry about performance because this library is 1KB!
 
 Include this file in your project, after jQuery
 
-`<script src="yourLocalFolder/smartip.min.js"`
+`<script src="yourLocalFolder/smartip.min.js"></script>`
 
 Now you can call plugin, for example at ready function
 
