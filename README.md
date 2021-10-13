@@ -1,6 +1,6 @@
 # SmarTip
 
-SmarTip is a simple jQuery Plugin developed by [Luigi Sabbetti](https://www.luigisabbetti.it/About).
+SmarTip is a simple jQuery Plugin developed by [Luigi Sabbetti](https://www.luigisabbetti.it/).
 
 # How to install
 
